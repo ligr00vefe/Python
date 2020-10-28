@@ -1,7 +1,7 @@
 """
     날짜 : 2020/06/22
     이름 : 권기민
-    내용 : Python HellWorld 출력하기
+    내용 : Python Hello World 출력하기
 """
 
 print('Hello World')
